@@ -29,8 +29,9 @@ An end-to-end data analytics project analyzing **61,953 real job postings** scra
 | Top role | Data Analyst (6,443 postings) |
 | Skill ranking | SQL > Excel > Python > Power BI > Tableau |
 
----
+
 ## 🗂️ Project Structure
+```
 job-market-intelligence/
 ├── brief/
 │   ├── insights_brief.md
@@ -56,8 +57,8 @@ job-market-intelligence/
 │   └── page2_skill_intelligence.png
 ├── .gitignore
 └── README.md
+```
 
----
 
 ## ⚙️ How to Reproduce
 
