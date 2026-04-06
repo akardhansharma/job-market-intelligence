@@ -1,0 +1,19 @@
+# Data files (too large for GitHub)
+data/raw/
+data/cleaned/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+*.ini
