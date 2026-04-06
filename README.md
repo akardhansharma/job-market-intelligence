@@ -30,7 +30,6 @@ An end-to-end data analytics project analyzing **61,953 real job postings** scra
 | Skill ranking | SQL > Excel > Python > Power BI > Tableau |
 
 ---
-
 ## 🗂️ Project Structure
 job-market-intelligence/
 ├── brief/
